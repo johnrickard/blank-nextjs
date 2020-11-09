@@ -1,0 +1,8 @@
+.container {
+  min-height: 100vh;
+}
+
+@media (min-width: 580px) {
+  /*    Changes applied when viewed on desktop      */
+  /* (or anything with screen width 580px or above) */
+}

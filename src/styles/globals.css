@@ -22,20 +22,3 @@ a {
 * {
   box-sizing: border-box;
 }
-
-/* Dark Mode */
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-
-.dark-mode a {
-  background: linear-gradient(
-    to right,
-    hsla(54, 100%, 62%, 0.2),
-    hsla(54, 100%, 62%, 0.4)
-  );
-  background-size: 300% 40%;
-  background-repeat: no-repeat;
-  background-position: 0% 100%;
-}
